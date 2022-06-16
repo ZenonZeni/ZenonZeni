@@ -20,7 +20,8 @@ Skills: JavaScript, CSS, PHP, and Java
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zenonzeni/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenonZeni&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenonZeni&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![ZenonZeni GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZenonZeni&show_icons=true&theme=radical)
 
