@@ -12,6 +12,5 @@ Skills: JavaScript, CSS, PHP, and Java
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenonZeni&show_icons=true&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenonZeni&show_icons=true&count_private=true)  
+![ZenonZeni GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZenonZeni&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZenonZeni)  
