@@ -10,7 +10,7 @@ Skills: JavaScript, CSS, PHP, and Java
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZenonZeni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zenonzeni//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCoxEbz8Kr3Htx3UKviT2vjA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zenonzeni.ca)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenonZeni)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenonZeni&show_icons=true&theme=radical)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenonZeni&show_icons=true&count_private=true)  
 
