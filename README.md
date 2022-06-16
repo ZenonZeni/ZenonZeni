@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Christopher Nguyen aka ZenonZeni
-I made this GitHub for fun and for the version control feature to help control project development.
+I made this GitHub for fun and for the version control feature to help control my project full stack development.
 
 Skills: Java, JavaScript, PHP, CSS, SQL and XML/XSLT. 
 
