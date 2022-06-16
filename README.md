@@ -8,7 +8,17 @@ Skills: JavaScript, CSS, PHP, and Java
 - 📫 How to reach me: https://zenonzeni.ca/My-Personal-Website/ContactMe.html 
 
 
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://zenonzeni.ca#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://zenonzeni.ca#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCoxEbz8Kr3Htx3UKviT2vjA#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCoxEbz8Kr3Htx3UKviT2vjA#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zenonzeni/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zenonzeni/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenonZeni&show_icons=true&theme=radical)
 
