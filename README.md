@@ -1,6 +1,6 @@
 ### Hi there my name is Christopher Nguyen Aka ZenonZeni 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenonZeni&show_icons=true&theme=radical)
 
 <!--
 **ZenonZeni/ZenonZeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
