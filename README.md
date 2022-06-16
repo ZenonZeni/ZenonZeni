@@ -4,7 +4,7 @@ I made this GitHub for fun and for the version control feature to help control m
 My Skill Stack: Java, JavaScript, PHP, CSS, SQL and XML/XSLT. 
 
 - 🔭 I’m currently working on a booking system API for my Tutoring Business. Try it out at https://zenonzeni.com/BookingSystem/
-- 🌱 I’m currently learning Java, Linux based web servers/apps and JavaScript Frameworks. I.e J2E, Springboot, Jquery and Angular.
+- 🌱 I’m currently learning Java, Linux based web servers/apps and JavaScript Frameworks. I.e J2EE, Springboot, Jquery and Angular.
 - 🤔 I’m looking for help with front-end development so if you're good at it UX/UI design and want to work on open projects. Good skills to have are CSS, and a JavaScript Framework that works with Java Servers and APPS. Please reach out to me by contacting me. 
 - 📫 How to reach me: https://zenonzeni.ca/My-Personal-Website/ContactMe.html 
 
