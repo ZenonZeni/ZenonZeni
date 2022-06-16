@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Christopher Nguyen aka ZenonZeni
-I made this GitHub for fun and to version control my projects.
+I made this GitHub for fun and for the version control my projects.
 
-Skills: Java, JavaScript, PHP, CSS, and XML/XSLT. 
+Skills: Java, JavaScript, PHP, CSS, SQL and XML/XSLT. 
 
 - 🔭 I’m currently working on a booking system for my clients. 
 - 🌱 I’m currently learning Java and JavaScript Frameworks. 
