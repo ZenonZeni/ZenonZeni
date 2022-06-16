@@ -1,5 +1,9 @@
 ### Hi there my name is Christopher Nguyen Aka ZenonZeni 👋
 
+#- 🌱 I’m currently learning Java, C#, and JavaScript.
+#- ⚡ Check out my website at https://zenonzeni.ca
+#- 📫 How to reach me at: https://zenonzeni.ca/My-Personal-Website/ContactMe.html
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenonZeni&show_icons=true&theme=radical)
 
 <!--
