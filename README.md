@@ -1,4 +1,4 @@
-### Hi there my name is Christopher Nguyen Aka ZenonZeni 👋
+## Hi there my name is Christopher Nguyen Aka ZenonZeni 👋
 
 ## 🌱 I’m currently learning Java, C#, and JavaScript.
 ## ⚡ Check out my website at https://zenonzeni.ca
