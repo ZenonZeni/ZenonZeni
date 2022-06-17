@@ -1,7 +1,7 @@
 ### Hi Everyone 👋, My name is Christopher Nguyen aka ZenonZeni
 I made this GitHub for fun and for the version control feature to help control my project development.
 
-My Full Stack: Java, JavaScript, PHP, SQL and XML/XSLT. Also, Yes I know HTML/CSS, but it's not a language it's a web standard.
+My Full Stack: Java, JavaScript, PHP, SQL and XSLT. Also, Yes I know HTML/CSS/XML, but it's not a language it's a web standard.
 
 - 🔭 I’m currently working on a booking system API for my Tutoring Business. Try it out at https://zenonzeni.com/BookingSystem/
 - 🌱 I’m currently learning Java, Linux based web servers/apps and JavaScript Frameworks. I.e J2EE, Springboot, Jquery and Angular.
